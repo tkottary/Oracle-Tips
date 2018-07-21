@@ -18,11 +18,11 @@ select count(1) from v$session ;
 
 select MACHINE,count(1) from v$session group by MACHINE
 
- select status,count(1) from v$session group by status 
+select status,count(1) from v$session group by status 
 
 **How to check the current running sqls in the database
 
 SELECT s.username,s.sid,s.serial#,a.sql_text,s.logon_time,s.machine,s.sql_id FROM v$sqlarea  a,v$session s WHERE a.address = s.sql_address AND a.users_executing > 0 order by a.sql_text;
 
 
-How to check the currnet locked sessions in the database.
+**How to check the currnet locked sessions in the database.
