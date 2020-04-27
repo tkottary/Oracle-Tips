@@ -1,8 +1,0 @@
-LicenseId   = 079ad9ae301145d2b1058e0b2e9e09b8
-Expiry      = 2020-08-10T00:00:00.0000000Z
-Feature     = SharpCapPro
-FeatureId   = 5cad0b6a0f7149c28ff3f613c5414d2b
-LicensedTo  = tkottary@gmail.com
-Signature0  = GdgKJZnwnanvDXD75zT90j/GV8cHAIVVyFCfXpFugRMjADMUsbkhYLZLDeCcZMz2
-Signature1  = wlk1TNohxTvcpBAQDIx3MfntVuGLQbrgYIhVobxpk5PC13azg0msDyRSwKoPw9Lw
-Signature2  = 3HLhdzYzHslJ4RrMWqUGPeBXhqYADTmc/WtoqI6dIdw=
